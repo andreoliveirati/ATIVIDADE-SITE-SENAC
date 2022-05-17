@@ -1,0 +1,36 @@
+* {
+    color: rgba(255, 255, 255, 0.897);
+}
+
+h1 {
+    
+      font-size: 25px;
+      background-color: #004a90;
+      color: #FFC72C;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     padding: 5px; 
+}   
+
+h2 {
+    border-style: solid;
+    font-size: 15px;
+    background-color: #004a90;
+    color: #FFC72C;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   padding: 5px; 
+
+}
+
+p, a, li, ul, i, u, b, hr {
+    color: #004a90;
+}
+
+body {
+
+background: rgb(252,200,69);
+background: linear-gradient(90deg, rgba(252,200,69,1) 61%, rgba(253,170,29,1) 78%); 
+}
+
+
+
+
